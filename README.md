@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Carlo Ruiz and I'm a student at La Salle University and  I'm currently lerning web developement
+Hello! I'm Carlo Ruiz and I'm a student at La Salle University with registration id: 14961 and  I'm currently lerning web developement
 
 ## 🚀 Skills
 
@@ -10,6 +10,7 @@ Hello! I'm Carlo Ruiz and I'm a student at La Salle University and  I'm currentl
 - **Web Technologies:** [HTML, CSS, TailwindCSS, React, Node.js, Next.js]
 - **Databases:** [MySQL, MongoDB, PostgreSQL]
 - **Tools & Platforms:** [Git, VisualStudio, AndroidStudio]
+- **OS:**[Linux-ubuntu, Windows, MacOS]
 
 ## 🛠️ Projects
 
